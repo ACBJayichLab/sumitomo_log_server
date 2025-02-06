@@ -1,6 +1,3 @@
-
-
-
 # To set up:
 * Verify your compressor has a recent enough firmware for serial communication 
 * Make a DB-9 cable that connects **ONLY** pin 2 -> pin 3 & pin 3 -> pin 2
